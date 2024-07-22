@@ -27,6 +27,51 @@
    - Collaborated on cross-functional teams to ensure seamless integration with front-end applications.
    - Major Projects: Zemex Services, Green Energy APIs.
 
+</br>
+
+🛠️  **Languages and Tools**
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+
+<span style="display: inline-block; margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="C++" width="20" height="20" />
+</span>
+
+<span style="display: inline-block; margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="20" height="20" />
+</span>
+
+<span style="display: inline-block; margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="20" height="20" />
+</span>
+
+<span style="display: inline-block; margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node" width="20" height="20" />
+</span>
+
+<span style="display: inline-block; margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="20" height="20" />
+</span>
+
+<span style="display: inline-block; margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="Mongodb" width="20" height="20" />
+</span>
+
+
+<span style="display: inline-block; margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="20" height="20" />
+</span>
+
+<span style="display: inline-block; margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Github" width="20" height="20" />
+</span>
+</div>         
+<br/><br/>
+
+
+| <a href="https://github.com/muchhalsagar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=muchhalsagar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sagar github stats" /></a> | <a href="https://github.com/muchhalsagar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muchhalsagar&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 
 <!---
 muchhalsagar/muchhalsagar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
