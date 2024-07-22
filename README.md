@@ -72,7 +72,7 @@
 | <a href="https://github.com/muchhalsagar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muchhalsagar&layout=compact&theme=buefy&hide_border=true" /></a> |
 | -------------------------- |
 
-
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=muchhalsagar&show_icons=true" alt="muchhalsagar" />
 <!---
 muchhalsagar/muchhalsagar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
