@@ -69,8 +69,8 @@
 <br/><br/>
 
 
-| <a href="https://github.com/muchhalsagar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=muchhalsagar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sagar github stats" /></a> | <a href="https://github.com/muchhalsagar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muchhalsagar&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+| <a href="https://github.com/muchhalsagar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muchhalsagar&layout=compact&theme=buefy&hide_border=true" /></a> |
+| -------------------------- |
 
 
 <!---
