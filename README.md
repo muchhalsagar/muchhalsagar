@@ -1,5 +1,8 @@
 👋 Hi, I’m Sagar Muchhal.    
 
+<p align='center' style='margin: 16px 4px 8px;'>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+developer" alt="Welcome to my GitHub Profile. I am a passionate full-stack Developer." />
+</p>
 
   ## 🚀 SKILLS
 
@@ -75,7 +78,7 @@
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=muchhalsagar&show_icons=true" alt="muchhalsagar" />
 
 <p align="center" style='margin: 8px 4px;'>
-    <img src="./assets/sunrise.jpeg?sanitize=true" alt="utkarshpathrabe" />
+    <img src="./sunrise.jpeg?sanitize=true" alt="utkarshpathrabe" />
 </p>
 <!---
 muchhalsagar/muchhalsagar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
