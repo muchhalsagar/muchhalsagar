@@ -11,9 +11,19 @@
  - **Soft Skills**: Leadership, Active Listener, Reading.
 
 ## 👨‍💻 WORK EXPERIENCE
-   ### Node.js / React.js Developer - Full Time
-   April 2024 — Present     
-   Aegis Softwares  
+   ### MERN Stack Developer - Full Time
+   July 2024 — Present         
+   Next Generation Technology(NGT)            
+   Rajkot, India  
+   - Next.js, TypeScript, React.js, Node.js (Serverless with AWS Lambda), Express.js, MongoDB, SQL, Tailwind CSS, Socket.IO, Redux
+   - Built responsive and dynamic components using Next.js and TypeScript, ensuring optimized performance and scalability.
+   - Managed application state with Redux, enhancing performance and improving user interactions.
+   - Leveraged AWS Lambda for building serverless functions and efficient backend services.
+   - **Major Project**: Cbex
+     
+   ### Node.js / React.js Developer - Full Time           
+   April 2024 — Jun 2024        
+   Aegis Softwares     
    Rajkot, India  
    - Full Stack Developer in Serverless Node.js (Typescript), React, Express.js, MongoDB, Tailwind CSS, SQL, AWS
      Lambda, Socket.IO, Redux.
@@ -54,6 +64,10 @@
 
 <span style="display: inline-block; margin-right: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="20" height="20" />
+</span>
+
+<span style="display: inline-block; margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="react" width="20" height="20" />
 </span>
 
 <span style="display: inline-block; margin-right: 10px;">
