@@ -4,12 +4,16 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+MERN+Stack+developer" alt="Welcome to my GitHub Profile. I am a passionate MERN Stack Developer." />
 </p>
 
-  ## 🚀 SKILLS
+## 🚀 **SKILLS**
 
- - **Frontend**: React.js, Next.js, HTML5, CSS3, Tailwind CSS
- - **Backend**: Node.js, Express.js, MongoDB, MySQL
- - **Tools & Technologies**: Web Development, AWS,Git & GitHub.
- - **Soft Skills**: Problem-solving, Leadership, Team Collaboration.
+- **Frontend:** React.js, Next.js, React Native, HTML5, CSS3, Tailwind CSS  
+- **Backend:** Node.js, Express.js, MongoDB, MySQL, Redis  
+- **Mobile App Development:** React Native (Android & iOS)  
+- **DevOps & Hosting:** AWS (Lambda, S3), Vercel, PM2  
+- **Languages & Tools:** TypeScript, JavaScript, Git, GitHub  
+- **Soft Skills:** Problem-solving, Leadership, Team Collaboration  
+
+
 
 ## 👨‍💻 WORK EXPERIENCE
    ### MERN Stack Developer - Full Time
