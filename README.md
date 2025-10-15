@@ -1,7 +1,9 @@
 # 👋 Hi, I’m Sagar Muchhal.    
 
 <p align='center' style='margin: 16px 4px 8px;'>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+MERN+Stack+developer" alt="Welcome to my GitHub Profile. I am a passionate MERN Stack Developer." />
+<p align="center" style="margin: 16px 4px 8px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+MERN+and+React+Native+Developer" alt="Typing SVG" />
+</p>
 </p>
 
 ## 🚀 **SKILLS**
@@ -16,87 +18,68 @@
 
 
 ## 👨‍💻 WORK EXPERIENCE
-   ### MERN Stack Developer - Full Time
-   July 2024 — Present         
-   Next Generation Technology (NGT)            
-   Rajkot, India  
-   - Next.js, TypeScript, React.js, Node.js (Serverless with AWS Lambda), Express.js, MongoDB, SQL, Tailwind CSS, Socket.IO, Redux
-   - Built responsive and dynamic components using Next.js and TypeScript, ensuring optimized performance and scalability.
-   - Managed application state with Redux, enhancing performance and improving user interactions.
-   - Leveraged AWS Lambda for building serverless functions and efficient backend services.
-   - **Major Project**:  Cbex - Implemented advanced functionality for an e-commerce platform.
-     
-   ### Node.js / React.js Developer - Full Time           
-   April 2024 — Jun 2024        
-   Aegis Softwares     
-   Rajkot, India
-   - Full Stack Developer in Serverless Node.js (Typescript), React, Express.js, MongoDB, Tailwind CSS, SQL, AWS
-     Lambda, Socket.IO, Redux.
-   - Developed responsive React.js components, integrated D3.js for advanced data visualizations. Managed appli-
-     cation state with Redux, optimizing performance and user interaction.
-   - **Major Project**: Diligent Market Intelligence on the Insightia platform.
+### 🧩 MERN / React Native Developer — *Full-Time*  
+**Next Generation Technology (NGT)** — Rajkot, India  
+📅 *July 2024 — Present*  
 
-   ### Node.Js / React.Js Intern
-   Nov 2023 — Feb 2024     
-   Avestan Technologies LLC  
-   Nagpur, India  
-   - Backend development with Node.js, specializing in API creation and backend functionalities. Proficient in
-     MongoDB for efficient data management and React.js for UI visualization.
-   - Collaborated on cross-functional teams to ensure seamless integration with front-end applications.
-   - **Major Project**: Zemex Services, Green Energy APIs.
+- Developed full-stack applications using **Next.js**, **TypeScript**, **React Native**, **Node.js**, **Express.js**, **MongoDB**, **SQL**, and **AWS Lambda**.  
+- Built **scalable mobile apps** using React Native, integrating APIs and real-time updates with **Socket.IO** and **Redux**.  
+- Implemented **serverless backend** solutions with AWS Lambda and optimized performance using **Redis caching**.  
+- **Major Project:** *Cbex* — Enhanced e-commerce functionality with advanced filters, search optimization, and real-time cart updates.
 
-</br>
+---
 
-🛠️  **Languages and Tools**
+### 💻 Node.js / React.js Developer — *Full-Time*  
+**Aegis Softwares** — Rajkot, India  
+📅 *April 2024 — June 2024*  
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+- Worked as a **Full Stack Developer** in Serverless Node.js (TypeScript), React.js, Express.js, MongoDB, SQL, and AWS Lambda.  
+- Created dynamic dashboards and reusable UI components with **React.js** and **Tailwind CSS**.  
+- Integrated **D3.js** for advanced data visualization and optimized performance using **Redux Toolkit**.  
+- **Major Project:** *Diligent Market Intelligence* — Real-time insights platform built on the Insightia system.
 
-<span style="display: inline-block; margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="C++" width="20" height="20" />
-</span>
+---
 
-<span style="display: inline-block; margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="20" height="20" />
-</span>
+### 🌱 Node.js / React.js Intern  
+**Avestan Technologies LLC** — Nagpur, India  
+📅 *Nov 2023 — Feb 2024*  
 
-<span style="display: inline-block; margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="20" height="20" />
-</span>
-
-<span style="display: inline-block; margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node" width="20" height="20" />
-</span>
-
-<span style="display: inline-block; margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="20" height="20" />
-</span>
-
-<span style="display: inline-block; margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="react" width="20" height="20" />
-</span>
-
-<span style="display: inline-block; margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="Mongodb" width="20" height="20" />
-</span>
+- Focused on backend development with **Node.js**, building RESTful APIs and data management using **MongoDB**.  
+- Assisted in developing front-end components with **React.js** and ensured smooth integration with backend APIs.  
+- **Major Project:** *Zemex Services* — Green Energy API platform for environmental data visualization.
 
 
-<span style="display: inline-block; margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="20" height="20" />
-</span>
-
-<span style="display: inline-block; margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Github" width="20" height="20" />
-</span>
-</div>         
-<br/><br/>
+---
 
 
-| <a href="https://github.com/muchhalsagar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muchhalsagar&layout=compact&theme=buefy&hide_border=true" /></a> |
-| -------------------------- |
+## 🛠️ **Languages and Tools**
 
-<p align="center" style='margin: 8px 4px;'>
-    <img src="./sunrise.jpeg?sanitize=true" alt="utkarshpathrabe" />
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
 </p>
+
+---
+
+## 📊 **GitHub Stats**
+| <a href="https://github.com/muchhalsagar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muchhalsagar&layout=compact&theme=buefy&hide_border=true" /></a> |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<p align="center" style="margin: 8px 4px;">
+  <img src="./sunrise.jpeg?sanitize=true" alt="Sagar Muchhal" />
+</p>
+
+---
 <!---
 muchhalsagar/muchhalsagar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
