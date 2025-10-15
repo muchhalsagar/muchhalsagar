@@ -1,86 +1,118 @@
-# 👋 Hi, I’m Sagar Muchhal.    
+<!-- 💫 Professional GitHub Profile README for Sagar Muchhal -->
 
-<p align='center' style='margin: 16px 4px 8px;'>
-<p align="center" style="margin: 16px 4px 8px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+MERN+and+React+Native+Developer" alt="Typing SVG" />
-</p>
-</p>
+<h1 align="center">👋 Hi, I'm <span style="color:#0078FF;">Sagar Muchhal</span></h1>
+<h3 align="center">💻 MERN & React Native Developer | TypeScript | Redis | AWS | Vercel</h3>
 
-## 🚀 **SKILLS**
-
-- **Frontend:** React.js, Next.js, React Native, HTML5, CSS3, Tailwind CSS  
-- **Backend:** Node.js, Express.js, MongoDB, MySQL, Redis  
-- **Mobile App Development:** React Native (Android & iOS)  
-- **DevOps & Hosting:** AWS (Lambda, S3), Vercel, PM2  
-- **Languages & Tools:** TypeScript, JavaScript, Git, GitHub  
-- **Soft Skills:** Problem-solving, Leadership, Team Collaboration  
-
-
-
-## 👨‍💻 WORK EXPERIENCE
-### 🧩 MERN / React Native Developer — *Full-Time*  
-**Next Generation Technology (NGT)** — Rajkot, India  
-📅 *July 2024 — Present*  
-
-- Developed full-stack applications using **Next.js**, **TypeScript**, **React Native**, **Node.js**, **Express.js**, **MongoDB**, **SQL**, and **AWS Lambda**.  
-- Built **scalable mobile apps** using React Native, integrating APIs and real-time updates with **Socket.IO** and **Redux**.  
-- Implemented **serverless backend** solutions with AWS Lambda and optimized performance using **Redis caching**.  
-- **Major Project:** *Cbex* — Enhanced e-commerce functionality with advanced filters, search optimization, and real-time cart updates.
-
----
-
-### 💻 Node.js / React.js Developer — *Full-Time*  
-**Aegis Softwares** — Rajkot, India  
-📅 *April 2024 — June 2024*  
-
-- Worked as a **Full Stack Developer** in Serverless Node.js (TypeScript), React.js, Express.js, MongoDB, SQL, and AWS Lambda.  
-- Created dynamic dashboards and reusable UI components with **React.js** and **Tailwind CSS**.  
-- Integrated **D3.js** for advanced data visualization and optimized performance using **Redux Toolkit**.  
-- **Major Project:** *Diligent Market Intelligence* — Real-time insights platform built on the Insightia system.
-
----
-
-### 🌱 Node.js / React.js Intern  
-**Avestan Technologies LLC** — Nagpur, India  
-📅 *Nov 2023 — Feb 2024*  
-
-- Focused on backend development with **Node.js**, building RESTful APIs and data management using **MongoDB**.  
-- Assisted in developing front-end components with **React.js** and ensured smooth integration with backend APIs.  
-- **Major Project:** *Zemex Services* — Green Energy API platform for environmental data visualization.
-
-
----
-
-
-## 🛠️ **Languages and Tools**
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0078FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+React+Native+Specialist;Building+scalable+apps+with+MERN+and+TypeScript;Cloud+Ready+%7C+Performance+Driven+%7C+Team+Focused" alt="Typing animation" />
 </p>
 
 ---
 
-## 📊 **GitHub Stats**
-| <a href="https://github.com/muchhalsagar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muchhalsagar&layout=compact&theme=buefy&hide_border=true" /></a> |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+## 🧠 About Me
 
-<p align="center" style="margin: 8px 4px;">
-  <img src="./sunrise.jpeg?sanitize=true" alt="Sagar Muchhal" />
+🚀 I’m a **Full Stack & Mobile App Developer** passionate about crafting **scalable web and mobile applications** using the **MERN Stack**, **React Native**, and **TypeScript**.  
+I focus on creating **high-performance, secure, and user-centric solutions** integrated with modern technologies like **Redis caching**, **AWS Lambda**, and **Vercel deployment**.  
+
+💡 I believe in writing **clean, maintainable, and testable code** — following best practices that ensure performance and scalability.
+
+📍 Based in **Rajkot, India** | 🌐 Open to **Remote / Hybrid** Opportunities
+
+---
+
+## 🚀 Core Technical Skills
+
+| Category | Technologies |
+|-----------|---------------|
+| **Frontend / Mobile** | React.js, Next.js, React Native, HTML5, CSS3, Tailwind CSS |
+| **Backend** | Node.js, Express.js, TypeScript, RESTful APIs, GraphQL |
+| **Databases** | MongoDB, MySQL, Redis |
+| **Cloud & Deployment** | AWS (Lambda, S3, EC2), Vercel, PM2 |
+| **Tools & Libraries** | Redux Toolkit, Socket.IO, D3.js, Postman |
+| **Version Control** | Git, GitHub, CI/CD pipelines |
+| **Soft Skills** | Team Collaboration, Problem Solving, Leadership, Client Communication |
+
+---
+
+## 🏢 Professional Experience
+
+### 💼 MERN / React Native Developer — *Next Generation Technology (NGT)*
+📍 Rajkot, India | 🗓️ *July 2024 – Present*  
+
+- Developed and deployed **cross-platform mobile apps** with React Native and integrated **REST APIs** built on Node.js.  
+- Implemented **serverless backend** using AWS Lambda for optimized scalability.  
+- Utilized **Redis caching** and **MongoDB aggregations** to improve performance by 35%.  
+- Built reusable **Next.js** components with TypeScript and Tailwind CSS.  
+- **Major Project:** 🛒 *Cbex* — Advanced e-commerce platform featuring real-time updates and high-speed search.
+
+---
+
+### 💻 Full Stack Developer — *Aegis Softwares*  
+📍 Rajkot, India | 🗓️ *April 2024 – June 2024*
+
+- Worked with **React.js, TypeScript, Node.js, Express, and AWS Lambda**.  
+- Built scalable, reusable components and dashboards with **Redux Toolkit** and **D3.js**.  
+- **Major Project:** *Diligent Market Intelligence* — An analytics platform integrating real-time data visualization.
+
+---
+
+### 🌱 Backend Intern — *Avestan Technologies LLC*  
+📍 Nagpur, India | 🗓️ *Nov 2023 – Feb 2024*  
+
+- Designed APIs using **Express.js** and **MongoDB** for efficient data handling.  
+- Collaborated with the frontend team on **React.js** UI components and integration.  
+- **Major Project:** *Zemex Services* — APIs for renewable energy tracking and management.
+
+---
+
+## 🧩 Featured Projects
+
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|------|
+| 🛍️ **Cbex** | Advanced e-commerce platform with optimized performance & Redis caching. | Next.js, TypeScript, AWS Lambda, MongoDB, Redis |
+| 📊 **Diligent Market Intelligence** | Business intelligence dashboard with live insights & analytics. | React.js, D3.js, Node.js, Redux |
+| ⚡ **Zemex Services API** | Green energy management system with RESTful APIs. | Node.js, Express.js, MongoDB |
+| 📱 **React Native Task Manager** | Cross-platform app to manage daily tasks with real-time sync. | React Native, Redux Toolkit, Firebase |
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,typescript,nodejs,express,mongodb,mysql,redis,tailwind,aws,vercel,git,github,html,css,postman" />
 </p>
 
 ---
-<!---
-muchhalsagar/muchhalsagar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muchhalsagar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+---
+
+## 🌍 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sagar-muchhal" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0078FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:muchhalsagar@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/muchhalsagar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/muchhalsagar/muchhalsagar/main/sunrise.jpeg" width="700" alt="Sagar Muchhal Banner" />
+</p>
+
+---
+
+⭐ **"Code with clarity, build with purpose, and deliver with impact."**  
+> — *Sagar Muchhal*
